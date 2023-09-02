@@ -1,0 +1,155 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2023-09-03T04:14:43.482-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Readdle.Spark"
+				},
+				{
+					"PackageIdentifier" : "Bitwarden.Bitwarden"
+				},
+				{
+					"PackageIdentifier" : "Notion.Notion"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Amazon.Kindle"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.2204"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox.DeveloperEdition"
+				},
+				{
+					"PackageIdentifier" : "Flow-Launcher.Flow-Launcher"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "ProtonTechnologies.ProtonVPN"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Skillbrains.Lightshot"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.11"
+				},
+				{
+					"PackageIdentifier" : "CubeSoft.CubePDFUtility"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier" : "Google.JapaneseIME"
+				},
+				{
+					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier" : "Oracle.VirtualBox"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "9NBLGGH516XP"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.5.2201"
+}
