@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-09-03T04:14:43.482-00:00",
+	"CreationDate" : "2024-02-16T00:53:49.612-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,9 +8,6 @@
 			[
 				{
 					"PackageIdentifier" : "Readdle.Spark"
-				},
-				{
-					"PackageIdentifier" : "Bitwarden.Bitwarden"
 				},
 				{
 					"PackageIdentifier" : "Notion.Notion"
@@ -22,6 +19,9 @@
 					"PackageIdentifier" : "Amazon.Kindle"
 				},
 				{
+					"PackageIdentifier" : "Brave.Brave"
+				},
+				{
 					"PackageIdentifier" : "Canonical.Ubuntu.2204"
 				},
 				{
@@ -31,19 +31,37 @@
 					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
+					"PackageIdentifier" : "voidtools.Everything"
+				},
+				{
 					"PackageIdentifier" : "Mozilla.Firefox.DeveloperEdition"
 				},
 				{
-					"PackageIdentifier" : "Flow-Launcher.Flow-Launcher"
+					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "Git.Git"
+					"PackageIdentifier" : "Google.PlayGames.Beta"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DevHome"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
@@ -55,25 +73,37 @@
 					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
-					"PackageIdentifier" : "ProtonTechnologies.ProtonVPN"
-				},
-				{
 					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+					"PackageIdentifier" : "Microsoft.WindowsInstallationAssistant"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
 					"PackageIdentifier" : "Skillbrains.Lightshot"
 				},
 				{
-					"PackageIdentifier" : "Python.Python.3.11"
+					"PackageIdentifier" : "Python.Launcher"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
 				},
 				{
 					"PackageIdentifier" : "CubeSoft.CubePDFUtility"
@@ -82,37 +112,31 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
-				},
-				{
-					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
 					"PackageIdentifier" : "Google.JapaneseIME"
 				},
 				{
-					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+					"PackageIdentifier" : "Python.Launcher"
+				},
+				{
+					"PackageIdentifier" : "PlayStation.DualSenseFWUpdater"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.XNARedist"
-				},
-				{
-					"PackageIdentifier" : "Oracle.VirtualBox"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
@@ -124,7 +148,16 @@
 					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerShell"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "ElectronicArts.EADesktop"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.11"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				}
 			],
 			"SourceDetails" : 
@@ -151,5 +184,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.5.2201"
+	"WinGetVersion" : "1.6.3482"
 }
